@@ -12,7 +12,11 @@
 
 import os
 
+os.system('type autoreconf')
+os.system('type automake')
+os.system('type autoconf')
 os.system('type git')
+os.system('git --version')
 os.system('type pnmtopng')
 os.system('type doxygen')
 os.system('type latex2html')
