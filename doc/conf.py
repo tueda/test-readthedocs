@@ -12,11 +12,14 @@
 
 import os
 
+os.system('type git')
+os.system('type pnmtopng')
 os.system('type doxygen')
 os.system('type latex2html')
 os.system('type latex')
 os.system('type bibtex')
 os.system('type gs')
+os.system('ls -l -R')
 
 # -- General configuration ------------------------------------------------
 
