@@ -10,6 +10,13 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import os
+
+os.system('type doxygen')
+os.system('type latex2html')
+os.system('type latex')
+os.system('type bibtex')
+os.system('type gs')
 
 # -- General configuration ------------------------------------------------
 
